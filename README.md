@@ -14,6 +14,9 @@ A **fully responsive quiz application** built using **React**. This app allows u
 - ✅ **Prevents skipping questions without answers**.
 - 📱 **Fully mobile-friendly design**.
 
+<img src="https://github.com/MiniduOshan/Quiz-App/blob/5cd5ad13eebb2682fce15e3307ee008f1da10e41/sample.jpg" alt="image alt" width="400"/>
+
+
 ## 🚀 Getting Started
 
 ### 1️⃣ Install Dependencies
