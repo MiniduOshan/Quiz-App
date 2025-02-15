@@ -53,10 +53,8 @@ If it is valuable you can support me: **([buymeacoffee.com/miniduoshan](https://
 
 ### ✅ **🔹 Why This README is Professional & Useful**
 ✔ **Clearly describes the project & features.**  
-✔ **Includes step-by-step setup instructions.**  
-✔ **Supports screenshots (optional, add images later).**  
-✔ **Properly formatted copyright notice.**  
+✔ **Includes step-by-step setup instructions.**   
 
-Would you like you can add anything else? 🚀😊
+you can add anything else? 🚀😊
 
 Give a Star 😊
